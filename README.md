@@ -5,13 +5,12 @@ Objective:-
 Design the dashboard using HTML, CSS, JavaScript, etc. Candidates are expected to develop a dashboard featuring at least one graph, a menu, and a table with basic validations. This task will assess your ability to design, implement, and style a functional web dashboard, incorporating essential data management and validation techniques. Meeting this objective should demonstrate practical skills in creating user interfaces and handling real-world data presentations.
 
 Explanation:
+
 index.html:-
 
-<head>:
 Contains meta tags for character set and responsive design (meta tags).
 The title of the page is set to "Dashboard."
 The CSS file (styles.css) is linked here, which will define the page's style.
-<body>:
 
 Header (<header>): Displays the dashboard title and navigation links (Home, Reports, Settings) in a navigation menu (<nav>).
 Main Content (<main>):
